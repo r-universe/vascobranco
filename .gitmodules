@@ -7,4 +7,4 @@
 	url = https://github.com/vascobranco/gecko
 [submodule "red"]
 	path = red
-	url = https://github.com/cran/red
+	url = https://github.com/vascobranco/red
