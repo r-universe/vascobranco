@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "arete"]
 	path = arete
-	url = https://github.com/cran/arete
+	url = https://github.com/vascobranco/arete
 [submodule "gecko"]
 	path = gecko
 	url = https://github.com/vascobranco/gecko
